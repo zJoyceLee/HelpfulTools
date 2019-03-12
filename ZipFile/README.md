@@ -20,6 +20,9 @@ Zip all direct folder in current path
 python main.py
 ```
 
+### How to use?
+Copy main.py to the dir which you want to zip all direct folders.
+
 
 ### Result Structure
 ```bash
